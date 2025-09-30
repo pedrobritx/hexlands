@@ -1,0 +1,8 @@
+[package]
+name = "hexlands_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.11"
+hexlands_core = { path = "../core" }

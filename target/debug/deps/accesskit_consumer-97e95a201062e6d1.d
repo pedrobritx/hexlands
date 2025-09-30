@@ -1,0 +1,9 @@
+/Users/pedrobritx/Developer/hexlands/target/debug/deps/accesskit_consumer-97e95a201062e6d1.d: /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/lib.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/tree.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/node.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/iterators.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/text.rs
+
+/Users/pedrobritx/Developer/hexlands/target/debug/deps/libaccesskit_consumer-97e95a201062e6d1.rmeta: /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/lib.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/tree.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/node.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/iterators.rs /Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/text.rs
+
+/Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/lib.rs:
+/Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/tree.rs:
+/Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/node.rs:
+/Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/iterators.rs:
+/Users/pedrobritx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.15.2/src/text.rs:

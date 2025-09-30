@@ -2,8 +2,9 @@ use crate::types::*;
 use rand::{rngs::StdRng, Rng, SeedableRng};
 
 pub struct Dice {
-    rng: StdRng
+    rng: StdRng,
 }
+
 impl Dice {
     pub fn new(seed: u64) -> Self { Self { rng: StdRng::seed_from_u64(seed) } }
     pub fn roll_2d6(&mut self) -> u8 {
