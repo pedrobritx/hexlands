@@ -1,0 +1,26 @@
+Config(
+  rules: Rules(
+    win_vp: 10,
+    general_trade_rate: (4,1),
+    costs: Costs(
+      road: { Timber:1, Brick:1 },
+      outpost:{ Timber:1, Brick:1, Fiber:1, Grain:1 },
+      town:  { Grain:2, Ore:3 },
+      dev_card:{ Grain:1, Fiber:1, Ore:1 },
+    ),
+    distance_rule: 2,
+    route_bonus_len: 5,
+    route_bonus_vp: 2,
+    army_bonus_req: 3,
+    army_bonus_vp: 2,
+  ),
+  map: Map(
+    tiles: {},  // fill from your generator or a seed file
+    ports: [],
+  ),
+  event_deck: [
+    RichHarvest(biome: Forest, bonus: 1),
+    Drought(biome: Field),
+    TradeEmbargo,
+  ],
+)
